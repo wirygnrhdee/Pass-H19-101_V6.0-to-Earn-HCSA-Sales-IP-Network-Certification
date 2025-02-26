@@ -56,7 +56,7 @@ Huawei provides official study materials and training courses for the H19-101_V6
 Be sure to familiarize yourself with Huawei's entire portfolio of IP network products, from switches to cloud-based networking solutions. Understanding each product's features, benefits, and sales positioning is essential.
 
 3. Use Practice Exams
-H19-101_V6.0 practice exams (https://www.certqueen.com/H19-101_V6.0-ENU.html)will help you get comfortable with the question formats and time constraints of the real exam. These practice sessions also help identify areas where you may need additional study.
+H19-101_V6.0 practice exams (https://www.certqueen.com/H19-101_V6.0-ENU.html) will help you get comfortable with the question formats and time constraints of the real exam. These practice sessions also help identify areas where you may need additional study.
 
 4. Hands-On Experience
 While the exam is theory-based, having hands-on experience with Huawei products can significantly boost your confidence. If you have access to Huawei equipment or simulations, take the opportunity to practice configuring devices and exploring the software.
